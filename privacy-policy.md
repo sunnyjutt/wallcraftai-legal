@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - WallCraft AI</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #333;
-        }
-        h1 { color: #1a1a1a; border-bottom: 2px solid #4CAF50; padding-bottom: 10px; }
-        h2 { color: #2c3e50; margin-top: 30px; }
-        h3 { color: #34495e; }
-        .contact { background: #f5f5f5; padding: 15px; border-radius: 5px; margin: 20px 0; }
-        .effective-date { background: #e8f5e9; padding: 10px; border-radius: 5px; margin: 20px 0; }
-        a { color: #4CAF50; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-        ul { padding-left: 20px; }
-        li { margin: 8px 0; }
-    </style>
-</head>
-<body>
-
 <h1>Privacy Policy for WallCraft AI</h1>
 
 <div class="effective-date">
@@ -33,7 +5,7 @@
     <strong>Last Updated:</strong> November 1, 2024
 </div>
 
-<p>Muhammad Awais Sarwar ("we," "our," or "us") operates the WallCraft AI mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.</p>
+<p>Muhammad Awais Sarwar operates the WallCraft AI mobile application. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.</p>
 
 <p><strong>By using WallCraft AI, you agree to the collection and use of information in accordance with this policy.</strong></p>
 
