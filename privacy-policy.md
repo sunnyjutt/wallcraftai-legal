@@ -1,8 +1,7 @@
 <h1>Privacy Policy for WallCraft AI</h1>
 
 <div class="effective-date">
-    <strong>Effective Date:</strong> November 1, 2024<br>
-    <strong>Last Updated:</strong> November 1, 2024
+    <strong>Last Updated:</strong> November 1, 2025
 </div>
 
 <p>Muhammad Awais Sarwar operates the WallCraft AI mobile application. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.</p>
