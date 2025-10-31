@@ -1,282 +1,281 @@
-Terms of Service for WallCraft AI
-Last Updated: January 2025
-Agreement to Terms
-By downloading, installing, or using WallCraft AI ("the App," "we," "us," or "our"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+<h1>Terms of Service for WallCraft AI</h1>
 
-1. Description of Service
-1.1 What WallCraft AI Does
-WallCraft AI is a mobile application that enables users to:
-* Generate AI-powered wallpapers using text prompts
-* Browse and manage a personal wallpaper collection
-* Set wallpapers as device backgrounds
-* Schedule automatic daily wallpaper changes
-* Access premium features via subscription
-1.2 Service Availability
-* The App is provided "as is" and "as available"
-* We do not guarantee uninterrupted or error-free service
-* Features may be modified, suspended, or discontinued at any time
-* AI generation depends on third-party API availability
+<div class="effective-date">
+    <strong>Last Updated:</strong> November 1, 2025
+</div>
 
-2. User Accounts and Eligibility
-2.1 Age Requirements
-* You must be at least 13 years old to use WallCraft AI
-* Users under 18 must have parental consent
-* We reserve the right to verify age and request proof
-2.2 Account Responsibility
-* You are responsible for your device security
-* Maintain confidentiality of your Google Play account
-* Notify us immediately of unauthorized access
-* You are liable for all activities under your account
+<p>Welcome to WallCraft AI! These Terms of Service ("Terms") govern your use of the WallCraft AI mobile application ("App") operated by Muhammad Awais Sarwar ("we," "us," or "our").</p>
 
-3. Free Tier and Generation Limits
-3.1 Free User Limitations
-Free users receive:
-* 5 AI generations per day (resets at midnight local time)
-* Standard quality wallpapers (512px resolution)
-* Ad-supported experience (banner and interstitial ads)
-* Access to basic art styles
-3.2 Daily Limit Enforcement
-* Generation count resets daily at 00:00 local time
-* Attempting to bypass limits violates these Terms
-* We reserve the right to reset or adjust limits
+<div class="important">
+    <strong>⚠️ IMPORTANT:</strong> By downloading, installing, or using WallCraft AI, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
+</div>
 
-4. Premium Subscription
-4.1 Premium Benefits
-Premium subscribers receive:
-* Unlimited AI generations
-* Ad-free experience (no banner or interstitial ads)
-* Ultra HD wallpapers (1024px resolution)
-* Priority generation speed
-* Access to premium art styles
-* Early access to new features
-4.2 Subscription Plans
-* Monthly: $4.99/month
-* Yearly: $29.99/year (50% savings)
-* Prices subject to change with 30 days notice
-* Prices may vary by region and currency
-4.3 Billing and Renewal
-* Subscriptions are billed through Google Play Store
-* Automatic renewal unless canceled 24 hours before period ends
-* Subscription features activate immediately upon purchase
-* No refunds for partial subscription periods
-4.4 Cancellation
-You may cancel anytime:
-* Open Google Play Store
-* Go to Subscriptions
-* Select WallCraft AI Premium
-* Cancel subscription
-* Access continues until period ends
+---
 
-5. Acceptable Use Policy
-5.1 Prohibited Content
-You may NOT generate wallpapers containing:
-* Illegal content: Child exploitation, terrorism, illegal activities
-* Hate speech: Racist, sexist, homophobic, or discriminatory content
-* Violence: Graphic violence, gore, or disturbing imagery
-* Adult content: Nudity, pornography, or sexually explicit material
-* Copyrighted material: Unlicensed use of brands, logos, or characters
-* Harassment: Content targeting individuals or groups
-* Misinformation: Deliberately false or misleading content
-5.2 Prohibited Activities
-You may NOT:
-* Reverse engineer, decompile, or disassemble the App
-* Use automated tools or bots to generate wallpapers
-* Attempt to bypass generation limits or payment systems
-* Share or resell premium features
-* Use the App for commercial purposes without permission
-* Interfere with other users' enjoyment of the service
-* Overload our servers with excessive requests
-5.3 Content Monitoring
-* We use AI moderation to filter inappropriate prompts
-* We reserve the right to review generated content
-* Violations may result in immediate account termination
-* Severe violations will be reported to authorities
+<h2>1. Acceptance of Terms</h2>
 
-6. Intellectual Property
-6.1 Your Content
-* You retain ownership of text prompts you submit
-* By using the App, you grant us a license to process your prompts
-* We do not claim ownership of your generated wallpapers
-* You may use generated wallpapers for personal, non-commercial purposes
-6.2 AI-Generated Images
-* Wallpapers are created using third-party AI models (Hugging Face)
-* Generated images may not be protected by copyright
-* We make no warranties regarding copyright status
-* You use generated images at your own risk
-* Commercial use: Requires premium subscription and compliance with AI model licenses
-6.3 Our Intellectual Property
-WallCraft AI owns:
-* App name, logo, and branding
-* Source code and software architecture
-* UI/UX design and layout
-* Documentation and marketing materials
-You may NOT:
-* Use our trademarks without written permission
-* Copy, modify, or redistribute our software
-* Create derivative works based on our App
+<p>By accessing or using WallCraft AI, you confirm that:</p>
+<ul>
+    <li>You are at least 13 years old (or 16 in the EU/UK)</li>
+    <li>You have the legal capacity to enter into these Terms</li>
+    <li>You will comply with all applicable laws and regulations</li>
+    <li>You have read and understood our <a href="https://sunnyjutt.github.io/wallcraftai-legal/privacy-policy.html">Privacy Policy</a></li>
+</ul>
 
-7. Third-Party Services
-7.1 AI Generation (Hugging Face)
-* We use Hugging Face API for image generation
-* Subject to Hugging Face Terms of Service
-* We are not responsible for AI model outputs
-* Generation quality depends on model availability
-7.2 Advertisements (Google AdMob)
-* Free users see ads via Google AdMob
-* Subject to Google Ads Terms
-* We do not control ad content
-* Premium removes ads
-7.3 Payments (Google Play Billing)
-* Subscriptions processed by Google Play
-* Subject to Google Play Terms of Service
-* Refund requests handled by Google Play
-* We do not store payment information
+---
 
-8. Privacy and Data
-8.1 Data Collection
-* See our Privacy Policy for detailed information
-* We collect minimal data necessary for functionality
-* Generated wallpapers stored locally on your device
-* Usage analytics collected via Firebase
-8.2 User Responsibilities
-* You are responsible for backing up your wallpapers
-* We are not liable for data loss or corruption
-* Uninstalling the app deletes all local data
+<h2>2. Description of Service</h2>
 
-9. Disclaimers and Limitations
-9.1 No Warranties
-WallCraft AI is provided "AS IS" without warranties of any kind:
-* No guarantee of availability, reliability, or quality
-* No guarantee of AI generation accuracy or quality
-* No guarantee of compatibility with all devices
-* No guarantee of error-free operation
-9.2 Limitation of Liability
-To the maximum extent permitted by law:
-* We are not liable for indirect, incidental, or consequential damages
-* Our total liability is limited to the amount you paid in the last 12 months
-* We are not liable for third-party service failures (AI models, ads, billing)
-* We are not liable for content generated by AI models
-9.3 Indemnification
-You agree to indemnify and hold us harmless from:
-* Claims arising from your use of the App
-* Your violation of these Terms
-* Your violation of third-party rights
-* Content you generate or share
+<p>WallCraft AI is an AI-powered wallpaper generation application that allows users to:</p>
+<ul>
+    <li>Generate custom wallpapers using AI technology based on text prompts</li>
+    <li>Save and manage generated wallpapers locally on their device</li>
+    <li>Set wallpapers as device backgrounds</li>
+    <li>Access various art styles and customization options</li>
+</ul>
 
-10. Content Moderation
-10.1 Automated Filtering
-* We use AI to detect and block inappropriate prompts
-* False positives may occur
-* Contact support if you believe a prompt was incorrectly blocked
-10.2 User Reporting
-* Users can report inappropriate content
-* We investigate reports within 48 hours
-* Action taken at our sole discretion
-10.3 Enforcement Actions
-Violations may result in:
-* Warning notification
-* Temporary generation suspension
-* Permanent account termination
-* Report to authorities (severe violations)
+<h3>2.1 Free and Premium Features</h3>
 
-11. Termination
-11.1 Termination by You
-* Uninstall the app to terminate service
-* Cancel subscription via Google Play Store
-* Contact us to delete analytics data
-11.2 Termination by Us
-We may suspend or terminate your access:
-* For violation of these Terms
-* For fraudulent or abusive behavior
-* If required by law
-* At our discretion with or without notice
-11.3 Effect of Termination
-Upon termination:
-* Your right to use the App ceases immediately
-* Subscription benefits end (no prorated refunds)
-* Local data remains on your device until app removal
-* Certain provisions (liability, disputes) survive termination
+<p><strong>Free Tier includes:</strong></p>
+<ul>
+    <li>Limited daily wallpaper generations (specific limit displayed in-app)</li>
+    <li>Standard quality wallpapers (512×512 pixels)</li>
+    <li>Basic art styles</li>
+    <li>Ad-supported experience</li>
+</ul>
 
-12. Changes to Terms
-12.1 Modification Rights
-* We may update these Terms at any time
-* Changes effective upon posting in the App
-* Continued use constitutes acceptance
-* Material changes will be notified via in-app notice
-12.2 Version Control
-* Terms version displayed at top of document
-* Previous versions available upon request
-* Archive maintained for 3 years
+<p><strong>Premium Subscription includes:</strong></p>
+<ul>
+    <li>Unlimited wallpaper generations</li>
+    <li>Ultra HD quality wallpapers (up to 1024×1024 pixels)</li>
+    <li>Premium art styles and filters</li>
+    <li>Ad-free experience</li>
+    <li>Priority processing speed</li>
+    <li>Cloud backup (if/when available)</li>
+</ul>
 
-13. Dispute Resolution
-13.1 Governing Law
-These Terms are governed by the laws of [Your Jurisdiction], without regard to conflict of law principles.
-13.2 Informal Resolution
-Before filing a claim:
-* Contact us at support@wallcraftai.com
-* Describe your concern in detail
-* Allow 30 days for resolution attempt
-13.3 Arbitration Agreement
-* Disputes will be resolved through binding arbitration
-* Class action waiver: no class arbitrations or lawsuits
-* Small claims court available for qualifying disputes
-* Arbitration conducted under [Arbitration Association] rules
-13.4 Exceptions
-You may bring claims:
-* In small claims court if qualified
-* For intellectual property infringement
-* For emergency injunctive relief
+---
 
-14. Miscellaneous
-14.1 Entire Agreement
-These Terms constitute the entire agreement between you and WallCraft AI regarding the App.
-14.2 Severability
-If any provision is found unenforceable, the remaining provisions remain in effect.
-14.3 Waiver
-Our failure to enforce any provision does not constitute a waiver of that provision.
-14.4 Assignment
-* You may not transfer your rights under these Terms
-* We may assign these Terms to a successor or affiliate
-14.5 Force Majeure
-We are not liable for delays or failures due to circumstances beyond our control (natural disasters, wars, pandemics, etc.).
+<h2>3. User Accounts and Subscriptions</h2>
 
-15. Contact Information
-For Support: Email: support@wallcraftai.com Response Time: Within 48 hours
-For Legal Inquiries: Email: legal@wallcraftai.com
-For Privacy Concerns: Email: privacy@wallcraftai.com
-Mailing Address: [Your Company Name] [Street Address] [City, State, ZIP] [Country]
+<h3>3.1 No Account Required</h3>
+<p>WallCraft AI does not require you to create an account. All data is stored locally on your device.</p>
 
-16. Special Provisions
-16.1 Beta Features
-* Some features may be marked as "Beta" or "Experimental"
-* Beta features may be unstable or incomplete
-* We may discontinue beta features at any time
-16.2 Promotional Offers
-* We may offer promotional pricing or trials
-* Promotional terms will be clearly disclosed
-* Standard terms apply after promotion ends
-16.3 Referral Program
-* We may introduce a referral program
-* Terms will be disclosed when launched
-* Rewards subject to verification and approval
+<h3>3.2 Premium Subscriptions</h3>
 
-17. Compliance with Laws
-17.1 Export Controls
-You agree not to use the App in violation of export laws.
-17.2 Local Laws
-You are responsible for compliance with local laws regarding online content and conduct.
-17.3 DMCA Compliance
-If you believe content infringes your copyright, contact us with:
-* Description of copyrighted work
-* Description of infringing content
-* Your contact information
-* Good faith statement
-* Signature (physical or electronic)
+<p><strong>Pricing:</strong></p>
+<ul>
+    <li>Monthly Subscription: $4.99/month</li>
+    <li>Annual Subscription: $29.99/year (save 50%)</li>
+</ul>
 
-Acknowledgment
-By using WallCraft AI, you acknowledge:
-* You have read and understood these Terms
-* You agree to be bound by these Terms
-* You meet the age and eligibility requirements
-* You will comply with all applicable laws
-Last Reviewed: January 2025 Version: 1.0 Effective Date: [Your Launch Date]
+<p><strong>Payment:</strong></p>
+<ul>
+    <li>Payments are processed through Google Play Store</li>
+    <li>Subscriptions automatically renew unless cancelled 24 hours before the renewal date</li>
+    <li>Manage subscriptions in your Google Play Store account settings</li>
+</ul>
+
+<p><strong>Free Trial:</strong></p>
+<ul>
+    <li>New users may be eligible for a free trial period (as displayed in-app)</li>
+    <li>You can cancel anytime during the trial without charge</li>
+    <li>If not cancelled, you will be charged at the end of the trial period</li>
+</ul>
+
+<p><strong>Cancellation:</strong></p>
+<ul>
+    <li>Cancel anytime through Google Play Store → Subscriptions</li>
+    <li>Cancellation takes effect at the end of the current billing period</li>
+    <li>No refunds for partial periods</li>
+</ul>
+
+---
+
+<h2>4. Acceptable Use Policy</h2>
+
+<h3>4.1 You AGREE to:</h3>
+<ul>
+    <li>Use the App for lawful purposes only</li>
+    <li>Respect intellectual property rights</li>
+    <li>Provide accurate information when required</li>
+    <li>Keep your device secure</li>
+</ul>
+
+<h3>4.2 You AGREE NOT to:</h3>
+<ul>
+    <li><strong>Generate Prohibited Content:</strong> Create wallpapers containing illegal, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, or otherwise objectionable content</li>
+    <li><strong>Infringe Rights:</strong> Generate content that infringes copyrights, trademarks, or other intellectual property rights</li>
+    <li><strong>Abuse the Service:</strong> Attempt to circumvent usage limits, automate requests, or overload our systems</li>
+    <li><strong>Reverse Engineer:</strong> Decompile, disassemble, or reverse engineer the App</li>
+    <li><strong>Distribute Malware:</strong> Introduce viruses, malware, or harmful code</li>
+    <li><strong>Resell or Redistribute:</strong> Sell, rent, lease, or redistribute the App or generated content commercially without permission</li>
+    <li><strong>Impersonate:</strong> Impersonate any person or entity</li>
+    <li><strong>Spam:</strong> Use the App for spamming or unsolicited advertising</li>
+</ul>
+
+<div class="important">
+    <strong>Violation of these terms may result in immediate termination of your access to the App without refund.</strong>
+</div>
+
+---
+
+<h2>5. Intellectual Property Rights</h2>
+
+<h3>5.1 App Ownership</h3>
+<p>The App, including its code, design, graphics, interface, and documentation, is owned by Muhammad Awais Sarwar and protected by intellectual property laws.</p>
+
+<h3>5.2 Generated Content</h3>
+<p><strong>You retain ownership of wallpapers you generate using the App.</strong> However, you grant us a non-exclusive, worldwide, royalty-free license to:</p>
+<ul>
+    <li>Process your prompts to generate images</li>
+    <li>Use anonymized generation data to improve the service</li>
+    <li>Display generated content in promotional materials (with your consent)</li>
+</ul>
+
+<h3>5.3 Content Usage Restrictions</h3>
+<p>You may use generated wallpapers for:</p>
+<ul>
+    <li>Personal, non-commercial use</li>
+    <li>Setting as device wallpapers</li>
+    <li>Sharing on social media (with attribution appreciated but not required)</li>
+</ul>
+
+<p>You may NOT:</p>
+<ul>
+    <li>Sell or commercially distribute generated wallpapers without a commercial license</li>
+    <li>Claim AI-generated content as your own original artwork</li>
+    <li>Use generated content for training other AI models</li>
+</ul>
+
+---
+
+<h2>6. Third-Party Services</h2>
+
+<p>WallCraft AI uses third-party services including:</p>
+<ul>
+    <li><strong>Hugging Face API:</strong> For AI image generation</li>
+    <li><strong>Google AdMob:</strong> For advertising</li>
+    <li><strong>Google Firebase:</strong> For analytics and crash reporting</li>
+</ul>
+
+<p>Your use of these third-party services is subject to their respective terms of service:</p>
+<ul>
+    <li>Hugging Face: <a href="https://huggingface.co/terms-of-service" target="_blank">https://huggingface.co/terms-of-service</a></li>
+    <li>Google: <a href="https://policies.google.com/terms" target="_blank">https://policies.google.com/terms</a></li>
+</ul>
+
+---
+
+<h2>7. Disclaimers and Limitations</h2>
+
+<h3>7.1 Service Availability</h3>
+<p>We strive to keep WallCraft AI available at all times, but we do not guarantee:</p>
+<ul>
+    <li>Uninterrupted or error-free service</li>
+    <li>Availability of specific features</li>
+    <li>Compatibility with all devices</li>
+    <li>Specific generation quality or results</li>
+</ul>
+
+<h3>7.2 AI-Generated Content</h3>
+<p>AI-generated wallpapers are created automatically based on your prompts. We do not:</p>
+<ul>
+    <li>Review all generated content before delivery</li>
+    <li>Guarantee specific artistic results</li>
+    <li>Control the exact output of AI models</li>
+    <li>Warrant that generated content is free from defects</li>
+</ul>
+
+<h3>7.3 Disclaimer of Warranties</h3>
+<p><strong>THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:</strong></p>
+<ul>
+    <li>Warranties of merchantability</li>
+    <li>Fitness for a particular purpose</li>
+    <li>Non-infringement</li>
+    <li>Title</li>
+</ul>
+
+---
+
+<h2>8. Limitation of Liability</h2>
+
+<p><strong>TO THE MAXIMUM EXTENT PERMITTED BY LAW:</strong></p>
+
+<ul>
+    <li>We shall not be liable for any indirect, incidental, special, consequential, or punitive damages</li>
+    <li>Our total liability shall not exceed the amount you paid us in the 12 months preceding the claim (or £50 if you haven't paid anything)</li>
+    <li>We are not liable for losses caused by third-party services, device malfunctions, or user error</li>
+</ul>
+
+<p><strong>This limitation applies to claims based on:</strong></p>
+<ul>
+    <li>Breach of contract</li>
+    <li>Breach of warranty</li>
+    <li>Negligence</li>
+    <li>Strict liability</li>
+    <li>Any other legal theory</li>
+</ul>
+
+---
+
+<h2>9. Indemnification</h2>
+
+<p>You agree to indemnify, defend, and hold harmless Muhammad Awais Sarwar, our affiliates, and service providers from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:</p>
+<ul>
+    <li>Your use of the App</li>
+    <li>Your violation of these Terms</li>
+    <li>Your violation of any rights of third parties</li>
+    <li>Content you generate using the App</li>
+</ul>
+
+---
+
+<h2>10. Termination</h2>
+
+<h3>10.1 Termination by You</h3>
+<p>You may stop using the App at any time by:</p>
+<ul>
+    <li>Uninstalling the App from your device</li>
+    <li>Cancelling your subscription (if applicable)</li>
+</ul>
+
+<h3>10.2 Termination by Us</h3>
+<p>We may suspend or terminate your access immediately, without notice, if:</p>
+<ul>
+    <li>You violate these Terms</li>
+    <li>You abuse the service</li>
+    <li>We receive legal requests or orders</li>
+    <li>We decide to discontinue the App</li>
+</ul>
+
+<h3>10.3 Effect of Termination</h3>
+<p>Upon termination:</p>
+<ul>
+    <li>Your right to use the App ceases immediately</li>
+    <li>Locally stored wallpapers remain on your device</li>
+    <li>Unused subscription time is not refunded (unless required by law)</li>
+    <li>You must delete the App from your device</li>
+</ul>
+
+---
+
+<h2>11. Refund Policy</h2>
+
+<h3>11.1 Google Play Store Refunds</h3>
+<p>Refunds for subscriptions purchased through Google Play are subject to Google's refund policy:</p>
+<ul>
+    <li>Request refunds within 48 hours through Google Play Store</li>
+    <li>After 48 hours, refunds are at Google's discretion</li>
+    <li>Contact Google Play Support for refund requests</li>
+</ul>
+
+<h3>11.2 Our Refund Policy</h3>
+<p>We may issue refunds at our discretion if:</p>
+<ul>
+    <li>The App has significant technical issues preventing use</li>
+    <li>You were charged in error</li>
+    <li>Required by applicable law</li>
+</ul>
+
+<p>To request a refund, contact us at muhammadawaissarwar
