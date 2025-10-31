@@ -4,7 +4,7 @@
     <strong>Last Updated:</strong> November 1, 2025
 </div>
 
-<p>Welcome to WallCraft AI! These Terms of Service ("Terms") govern your use of the WallCraft AI mobile application ("App") operated by Muhammad Awais Sarwar ("we," "us," or "our").</p>
+<p>Welcome to WallCraft AI! These Terms of Service ("Terms") govern your use of the WallCraft AI mobile application ("App") operated by Muhammad Awais Sarwar.</p>
 
 <div class="important">
     <strong>⚠️ IMPORTANT:</strong> By downloading, installing, or using WallCraft AI, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
